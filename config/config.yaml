@@ -99,7 +99,24 @@ platforms:
     - id: "zhihu"
       name: "知乎"
       expected_domain: "zhihu.com"
-
+    - id: "github"
+      name: "GitHub 热门"
+      expected_domain: "github.com"
+    - id: "ithome"
+      name: "IT之家"
+      expected_domain: "ithome.com"
+    - id: "v2ex"
+      name: "V2EX"
+      expected_domain: "v2ex.com"
+    - id: "juejin"
+      name: "稀土掘金"
+      expected_domain: "juejin.cn"
+    - id: "solidot"
+      name: "Solidot"
+      expected_domain: "solidot.org"
+    - id: "xueqiu-hotstock"
+      name: "雪球热股"
+      expected_domain: "xueqiu.com"
 
 
 # ===============================================================
